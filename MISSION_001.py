@@ -21,3 +21,5 @@ while True:
         with open("diary.txt", "a") as file:
             file.write(input("ENTER YOUR DIARY: "))
             print("MISSION COMPLETE!")
+            print("PLETE!")
+            
